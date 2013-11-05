@@ -1,3 +1,4 @@
+// TODO Change for QUnit
 var RFB = require('../lib/rfb');
 var assert = require('assert');
 var expect = require('expect.js');
